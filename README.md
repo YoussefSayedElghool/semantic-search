@@ -1,6 +1,7 @@
 # Semantic Search
 
-nlp model , use to semantic-search write with python at Arbic data
+nlp model , use to do semantic-search task
+write with python and traind at Arbic data
 
 ## Data columns: 
 
