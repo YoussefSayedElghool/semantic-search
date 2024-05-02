@@ -5,10 +5,12 @@ write with python and traind at Arbic data
 
 ## Data columns: 
 
-| IllnessID | ill | preprocessed_text |
+- IllnessID
+- ill
+- preprocessed_text
 
 **IllnessID**: row identifier    
-**ill**: illness name (come from business "My Frind" )
+**ill**: illness name (come from business "My Frind")
 **preprocessed_text**: illness description after cleaning preprocessed
 
 ## Model Idea
